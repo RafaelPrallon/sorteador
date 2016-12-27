@@ -1,0 +1,1 @@
+json.partial! "sorteados/sorteado", sorteado: @sorteado

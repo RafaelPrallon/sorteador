@@ -1,0 +1,1 @@
+json.array! @sorteados, partial: 'sorteados/sorteado', as: :sorteado
